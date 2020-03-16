@@ -9,10 +9,6 @@ export default `/* 根据该字体大小，统一调整文章整体大小 */
 #nice a {
   color: #3e64ff;
 }
-#nice p code {
-  color: #e46918;
-  background-color: #efefef;
-}
 #nice .footnote-word,
 #nice .footnote-ref {
   color: #004a7c;
